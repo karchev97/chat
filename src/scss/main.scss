@@ -171,6 +171,7 @@ html, body {
 
 .chat-messages {
     height: 73%;
+    overflow: auto;
 }
 
 .message-from {
